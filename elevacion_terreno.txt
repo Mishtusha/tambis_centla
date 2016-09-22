@@ -1,0 +1,26 @@
+### Elevaci'on del terreno en Centla dentro del pol'igono que di'o Roman.
+
+# Resoluci'on 15m
+
+{'count': 452 # num. celdas,
+ 'max': 1975.0,
+ 'mean': 1842.0,
+ 'min': 1769.0,
+ 'stddev': 43.4398169783788,
+ 'sum': 832584.0,
+}
+
+# Unidades en metros sobre nivel del mar.
+
+
+## Elevaci'on Regional dentro del tiff "region_centla.tif"
+{'count': 17147,
+ 'max': 2370.0,
+ 'mean': 1937.62646527089,
+ 'min': 1620.0,
+ 'stddev': 168.092572691704,
+ 'sum': 33224481.0,
+}
+
+
+
